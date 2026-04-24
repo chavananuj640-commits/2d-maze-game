@@ -1,16 +1,16 @@
 # 2d-maze-game
-# 🎮 2D Maze Game (Java)
+# 2D Maze Game (Java)
 
 An interactive jungle-themed maze game built using Java and Object-Oriented Programming concepts. The game features a GUI interface and intelligent enemy behavior using pathfinding algorithms.
 
 ---
 
 ##  Features
-- 🧠 Pathfinding using BFS / A*
-- 🎯 Enemy AI (Tiger chasing logic)
-- 🖥️ GUI built with Java Swing
-- 🎮 Multiple game modes
-- 💀 Game over & restart functionality
+-  Pathfinding using BFS / A*
+-  Enemy AI (Tiger chasing logic)
+-  GUI built with Java Swing
+-  Multiple game modes
+-  Game over & restart functionality
 
 ---
 
